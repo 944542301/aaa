@@ -1,3 +1,7 @@
+# aaa 0.0.6 2018-12-06 LZ  
+1、增加文件：index4.php  
+2、修改文件：index.php  
+
 # aaa 0.0.5 2018-12-06 LZ  
 1、修改文件：index2.php  
 2、新增文件：index3.php  
